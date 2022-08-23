@@ -1,4 +1,3 @@
-#define _FILE_OFFSET_BITS 64
 #include <assert.h>
 #include <stdio.h>
 #include <stdint.h>
